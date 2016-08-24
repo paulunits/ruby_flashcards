@@ -1,3 +1,6 @@
+Ruby Flashcards Program, completed by Paul Haney
+
+
 # Ruby Flashcards
 
 ## Summary 
